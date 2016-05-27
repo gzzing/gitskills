@@ -7,6 +7,6 @@
 `git diff` 主要是比较之前add后的文件和add后又发生改变的文件
 
 `git diff —staged` 查看准备提交的文件
-
+master里改动此处，push到dev分支
 
 在dev里做出改变1
