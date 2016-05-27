@@ -8,3 +8,5 @@
 
 `git diff —staged` 查看准备提交的文件
 
+
+在dev里做出改变1
